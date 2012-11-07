@@ -1,4 +1,4 @@
-Let's preteend this is the code for BudgetWizard.
+Let's pretend this is the code for Enterprise Budget Management Enterprise Enterprise
 
 We finally fixed that bug.
 
