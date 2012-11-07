@@ -1,6 +1,6 @@
 Let's preteend this is the code for BudgetWizard.
 
-This line has a bug we don't know about yet.
+We finally fixed that bug.
 
 This line addresses incident 124 somehow.
 
